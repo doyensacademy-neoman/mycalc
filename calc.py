@@ -16,4 +16,7 @@ def divide(a,b):
 #square
 def square(a):
     return a**2
-   
+#Remainder
+def remain(a,b):
+    return a%b
+    
