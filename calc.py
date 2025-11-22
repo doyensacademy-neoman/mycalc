@@ -13,4 +13,7 @@ def divide(a,b):
         return "Error! Division by zero."
     else:
         return a/b
-    
+#square
+def square(a):
+    return a**2
+   
