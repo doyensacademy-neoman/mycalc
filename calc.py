@@ -19,4 +19,7 @@ def square(a):
 #Remainder
 def remain(a,b):
     return a%b
+#Floor Division
+def floor(a,b):
+    return a//b
     
