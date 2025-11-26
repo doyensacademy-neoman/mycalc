@@ -22,4 +22,12 @@ def remain(a,b):
 #Floor Division
 def floor(a,b):
     return a//b
-    
+#main function
+a = input("Enter first number: ")
+b = input("Enter second number: ")
+a = float(a)
+b = float(b)
+c = add(a,b)
+d = sub(a,b)
+print("Addition: ",c)
+print("Subtraction: ",d)
